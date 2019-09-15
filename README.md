@@ -23,4 +23,6 @@ Deltarune para Nintendo Switch en Español
 * **D3fau4**: Coordinador, Traductor, Modder
 * **JonyLuke**: Diseñador gráfico, Traductor, Modder
 * **Kardch**: Traductor
+* **Eleiber**: Diseñador gráfico, Traductor, Modder
 * **Xalgovia**: Diseñador gráfico, Traductor, Modder
+
