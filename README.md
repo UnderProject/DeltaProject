@@ -2,9 +2,9 @@
 
 ![Banner](/assets/Banner.png)
 
-Deltarune para Nintendo Switch en Español
+Deltarune en Español
 
-## Si quieres seguir el proyecto descárgate nuestro [nro](https://github.com/UnderProject/UnderProjectNX-Updater/releases). 
+## Reboot
 
 ## Creditos: (WIP)
 * [Nintendo](https://www.nintendo.com)
@@ -18,11 +18,4 @@ Deltarune para Nintendo Switch en Español
 * [Xdelta3](https://github.com/jmacd/xdelta)
 
 * [Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
-
-## Creadores:
-* **D3fau4**: Coordinador, Traductor, Modder
-* **JonyLuke**: Diseñador gráfico, Traductor, Modder
-* **Kardch**: Traductor
-* **Eleiber**: Diseñador gráfico, Traductor, Modder
-* **Xalgovia**: Diseñador gráfico, Traductor, Modder
 
